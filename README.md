@@ -15,7 +15,7 @@
 
 ## Requisições Aceitas
 
-| Requisição      Descrição						   |
+| Requisição   |  Descrição						   |
 | ------------ |  -----------------------------	   |
 | DATHOR       |  Interroga data/hora.			   |
 | USOCPU       |  Interroga o uso da CPU.		   |
