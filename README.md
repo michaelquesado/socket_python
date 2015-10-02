@@ -22,3 +22,5 @@
 | USOMEM       |  Interroga o uso da Memória.	   |
 | SYSNOM       |  Interroga o nome do dispositivo. |
 
+##Testes
+   No diretorio src/tests encontra-se o cliente e o servidor, pelo terminal execute o servidor ~ $ python servidor.py assim como o cliente ~ $ python cliente.py com ambos instanciados, tente solicitar informaçoes do servidor pelo cliente com as entradas citadas acima na tabela.
