@@ -15,9 +15,10 @@
 
 ## Requisições Aceitas
 
-Requisição      Descrição
-DATHOR          Interroga data/hora.
-USOCPU          Interroga o uso da CPU.
-USOMEM          Interroga o uso da Memória.
-SYSNOM          Interroga o nome do dispositivo.
+| Requisição      Descrição						   |
+| ------------ |  -----------------------------	   |
+| DATHOR       |  Interroga data/hora.			   |
+| USOCPU       |  Interroga o uso da CPU.		   |
+| USOMEM       |  Interroga o uso da Memória.	   |
+| SYSNOM       |  Interroga o nome do dispositivo. |
 
